@@ -10,9 +10,9 @@
 
 ### **Сервисы**
 
-Trello
+[Trello](https://trello.com/invite/b/bYELfzrK/ATTI09a9c6896c75c2db8cab471c525bf62e927397BD/приложение-progresstracker)
 
-Miro
+[Miro](https://miro.com/welcomeonboard/ajZUV3FTZ1FyMmdBUDhiUFA1QmM0bXpkc0VpUkdQaWlLNzZrZEdiY2c0YW1BbUJ4dm5iVGRKMHYxeGhIa0lUVnwzNDU4NzY0NTY2NzY3MTI3NDAyfDI=?share_link_id=944803138356)
 
 Figma
 
