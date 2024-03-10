@@ -14,7 +14,7 @@
 
 [Miro](https://miro.com/welcomeonboard/ajZUV3FTZ1FyMmdBUDhiUFA1QmM0bXpkc0VpUkdQaWlLNzZrZEdiY2c0YW1BbUJ4dm5iVGRKMHYxeGhIa0lUVnwzNDU4NzY0NTY2NzY3MTI3NDAyfDI=?share_link_id=944803138356)
 
-Figma
+[Figma](https://www.figma.com/file/6j5yriFk7If9U6DOkISJR6/ProgressTracker-interface?type=design&node-id=0%3A1&mode=design&t=sMGr0EtKK009Q8bY-1)
 
 ### **Документация**
 Техническое задание (docx) (pdf)
