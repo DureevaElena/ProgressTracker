@@ -8,6 +8,13 @@
 
 [Лагонская Алина Артуровна](https://github.com/olliweu) 
 
+### **Роли:**
+
+Дуреева Елена Юрьевна – team lead, project manager, технический 
+писатель, frontend-разработчик;
+Мироненко Пётр Николаевич – backend-разработчик;
+Лагонская Алина Артуровна – бизнес-аналитик, дизайнер;
+
 ### **Сервисы**
 
 [Trello](https://trello.com/invite/b/bYELfzrK/ATTI09a9c6896c75c2db8cab471c525bf62e927397BD/приложение-progresstracker)
