@@ -19,9 +19,13 @@
 
 ### **Документация:**
 Техническое задание: [(docx)](https://github.com/DureevaElena/ProgressTracker/blob/main/Documentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx) [(pdf)](https://github.com/DureevaElena/ProgressTracker/blob/main/Documentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
+
 Оформительские задачи: [(pdf)](https://github.com/DureevaElena/ProgressTracker/blob/main/Documentation/%D0%9E%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.pdf)
+
 Сопроводительное письмо: [(docx)](https://github.com/DureevaElena/ProgressTracker/blob/main/Documentation/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE_1.docx) [(pdf)](https://github.com/DureevaElena/ProgressTracker/blob/main/Documentation/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE_1.pdf)
-Сопроводительное письмо (копия): [(docx)](https://github.com/DureevaElena/ProgressTracker/blob/main/Documentation/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE_2.docx) [pdf](https://github.com/DureevaElena/ProgressTracker/blob/main/Documentation/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE_2.pdf)
+
+Сопроводительное письмо (копия): [(docx)](https://github.com/DureevaElena/ProgressTracker/blob/main/Documentation/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE_2.docx) [(pdf)](https://github.com/DureevaElena/ProgressTracker/blob/main/Documentation/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE_2.pdf)
+
 Презентация ТЗ: (pptx) (pdf)
 
 
