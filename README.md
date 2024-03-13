@@ -17,7 +17,7 @@
 
 Лагонская Алина Артуровна – бизнес-аналитик, дизайнер;
 
-### **Сервисы**
+### **Сервисы:**
 
 [Trello](https://trello.com/invite/b/bYELfzrK/ATTI09a9c6896c75c2db8cab471c525bf62e927397BD/приложение-progresstracker)
 
@@ -25,11 +25,11 @@
 
 [Figma](https://www.figma.com/file/6j5yriFk7If9U6DOkISJR6/ProgressTracker-interface?type=design&node-id=0%3A1&mode=design&t=sMGr0EtKK009Q8bY-1)
 
-### **Документация**
+### **Документация:**
 Техническое задание (docx) (pdf)
 
 Презентация ТЗ (pptx) (pdf)
 
 
-### **Видео**
+### **Видео:**
 Видеопрезентация ТЗ
