@@ -10,3 +10,6 @@
 [submodule "ProgressTracker_server"]
 	path = ProgressTracker_server
 	url = https://github.com/DureevaElena/ProgressTracker_server.git
+[submodule "ProgressTrackerapp_client"]
+	path = ProgressTrackerapp_client
+	url = https://github.com/DureevaElena/ProgressTrackerapp_client.git
