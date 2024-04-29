@@ -4,9 +4,6 @@
 [submodule "Frontend"]
 	path = Frontend
 	url = https://github.com/DureevaElena/ProgressTracker_client.git
-[submodule "ProgressTracker_client"]
-	path = ProgressTracker_client
-	url = https://github.com/DureevaElena/ProgressTracker_client.git
 [submodule "ProgressTracker_server"]
 	path = ProgressTracker_server
 	url = https://github.com/DureevaElena/ProgressTracker_server.git
