@@ -37,3 +37,5 @@
 [Видеопрезентация ТЗ](https://youtu.be/GuEh-8_ibMI)
 
 [Видеопрезентация Проекта](https://youtu.be/fD6so7USoi4)
+
+[Видеопрезентация Макеты экранов](https://youtu.be/meeyDzmAdWc)
