@@ -29,6 +29,8 @@
 
 Презентация проекта: [(pptx)](https://github.com/DureevaElena/ProgressTracker/blob/12a098beb67ea63958c1c359e4560ea324c3727d/Documentation/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pptx) [(pdf)](https://github.com/DureevaElena/ProgressTracker/blob/12a098beb67ea63958c1c359e4560ea324c3727d/Documentation/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pdf)
 
+Презентация предзащита: [(pptx)](https://github.com/DureevaElena/ProgressTracker/blob/main/Documentation/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%9F%D1%80%D0%B5%D0%B4%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0.pptx) [(pdf)](https://github.com/DureevaElena/ProgressTracker/blob/main/Documentation/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%9F%D1%80%D0%B5%D0%B4%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0.pdf)
+
 
 ### **Видео:**
 [Видеопрезентация ТЗ](https://youtu.be/GuEh-8_ibMI)
