@@ -23,9 +23,11 @@
 
 Сопроводительное письмо (копия): [(docx)](https://github.com/DureevaElena/ProgressTracker/blob/main/Documentation/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE_2.docx) [(pdf)](https://github.com/DureevaElena/ProgressTracker/blob/main/Documentation/%D0%A1%D0%BE%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE_2.pdf)
 
-Презентация ТЗ: [(pptx)](https://github.com/DureevaElena/ProgressTracker/blob/2c94519e9a60ccad14fccb171e3e7b7dd9800ceb/Documentation/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%A2%D0%97.pptx) [(pdf)](https://github.com/DureevaElena/ProgressTracker/blob/2c94519e9a60ccad14fccb171e3e7b7dd9800ceb/Documentation/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%A2%D0%97.pdf)
-
 Курсовой проект: [(docx)](https://github.com/DureevaElena/ProgressTracker/blob/main/Documentation/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.docx) [(pdf)](https://github.com/DureevaElena/ProgressTracker/blob/2d0b522364f68c86be81db07f19a0df983bd281f/Documentation/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pdf)
+
+
+### **Документация:**
+Презентация ТЗ: [(pptx)](https://github.com/DureevaElena/ProgressTracker/blob/2c94519e9a60ccad14fccb171e3e7b7dd9800ceb/Documentation/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%A2%D0%97.pptx) [(pdf)](https://github.com/DureevaElena/ProgressTracker/blob/2c94519e9a60ccad14fccb171e3e7b7dd9800ceb/Documentation/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20%D0%A2%D0%97.pdf)
 
 Презентация проекта: [(pptx)](https://github.com/DureevaElena/ProgressTracker/blob/12a098beb67ea63958c1c359e4560ea324c3727d/Documentation/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pptx) [(pdf)](https://github.com/DureevaElena/ProgressTracker/blob/12a098beb67ea63958c1c359e4560ea324c3727d/Documentation/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82.pdf)
 
