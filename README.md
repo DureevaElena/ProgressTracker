@@ -16,7 +16,7 @@
 [Figma](https://www.figma.com/file/6j5yriFk7If9U6DOkISJR6/ProgressTracker-interface?type=design&node-id=0-1&mode=design&t=H9wLtNfWa3GjVtPA-0)
 
 ### **Документация:**
-Техническое задание: [(docx)]([https://clck.ru/39Qvo6](https://github.com/DureevaElena/ProgressTracker/blob/main/Documentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx) [(pdf)](https://github.com/DureevaElena/ProgressTracker/blob/main/Documentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
+Техническое задание: [(docx)](https://github.com/DureevaElena/ProgressTracker/blob/main/Documentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.docx) [(pdf)](https://github.com/DureevaElena/ProgressTracker/blob/main/Documentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
 
 Оформительские задачи: [(pdf)](https://github.com/DureevaElena/ProgressTracker/blob/main/Documentation/%D0%9E%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B5_%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8.pdf)
 
