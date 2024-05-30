@@ -2,12 +2,9 @@
 ### **Мобильное приложение для трекинга прогресса в изучении новых навыков "ProgressTracker"**
 ### **Студенты:**
 
-[Дуреева Елена Юрьевна](https://github.com/DureevaElena) – team lead, project manager, дизайнер, frontend-разработчик
+[Дуреева Елена Юрьевна](https://github.com/DureevaElena) – team lead, project manager, дизайнер, frontend-разработчик, backend-разработчик
 
-[Мироненко Петр Николаевич](https://github.com/IshimoRin) – backend-разработчик
-
-[Лагонская Алина Артуровна](https://github.com/olliweu) – бизнес-аналитик, технический 
-писатель
+[Лагонская Алина Артуровна](https://github.com/olliweu) – бизнес-аналитик, технический писатель
 
 ### **Сервисы:**
 
@@ -39,3 +36,5 @@
 [Видеопрезентация Проекта](https://youtu.be/fD6so7USoi4)
 
 [Видеопрезентация Макеты экранов](https://youtu.be/meeyDzmAdWc)
+
+[Видеопрезентация Предзащита](https://youtu.be/g91QVGQms7Y)
