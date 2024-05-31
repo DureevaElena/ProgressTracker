@@ -38,11 +38,7 @@
 
 [Видеопрезентация Проекта](https://youtu.be/fD6so7USoi4)
 
-[Видеопрезентация Макеты экранов (Гайд)](https://youtu.be/meeyDzmAdWc)
-
-[Видеопрезентация backend (предзащита)](https://youtu.be/Xego0vlqwzI)
-
-[Видеопрезентация frontend (предзащита)](https://youtu.be/mvjy_0VNC-8)
+[Видеопрезентация Макеты экранов](https://youtu.be/meeyDzmAdWc)
 
 [Видеопрезентация Предзащита](https://youtu.be/g91QVGQms7Y)
 
