@@ -44,11 +44,11 @@
 
 [Видео backend](https://youtu.be/y3Ol6V9d7JM)
 
-[Видео frontend](https://youtu.be/y3Ol6V9d7JM)
+[Видео frontend](https://youtu.be/sfJb0sEXHN0))
 
 [Видеогайд на приложение](https://youtu.be/y3Ol6V9d7JM)
 
-[Видеогайд на приложение]()
+[apk для скачивания]()
 
 
 
