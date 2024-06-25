@@ -48,8 +48,16 @@
 
 [Видеогайд на приложение](https://youtu.be/u9IsmVTVugY)
 
-[apk для скачивания](https://github.com/DureevaElena/ProgressTracker/blob/main/apk%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/app-release.apk)
+[apk для скачивания](https://disk.yandex.ru/d/a5kKq1yolBPIWg)
 
+
+Пользователь:
+Логин: email3@email.com
+Пароль: usertest2
+
+Админ:
+Логин: admin@a.com
+Пароль: admin12345678
 
 
 
