@@ -51,12 +51,17 @@
 [apk для скачивания](https://disk.yandex.ru/d/a5kKq1yolBPIWg)
 
 
+
 Пользователь:
+
 Логин: email3@email.com
+
 Пароль: usertest2
 
 Админ:
+
 Логин: admin@a.com
+
 Пароль: admin12345678
 
 
